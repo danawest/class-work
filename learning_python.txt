@@ -1,0 +1,4 @@
+In Python you can store a class in a module and then import that module into your program.
+In Python you can loop through a list.
+In Python you can store user data in a dictionary.
+In Python you can write programs that ask for user input.
